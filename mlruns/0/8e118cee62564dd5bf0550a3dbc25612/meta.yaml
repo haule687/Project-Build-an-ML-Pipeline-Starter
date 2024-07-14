@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8e118cee62564dd5bf0550a3dbc25612/artifacts
+end_time: 1720917395534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e118cee62564dd5bf0550a3dbc25612
+run_name: receptive-hawk-545
+run_uuid: 8e118cee62564dd5bf0550a3dbc25612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720917343448
+status: 3
+tags: []
+user_id: haucongle

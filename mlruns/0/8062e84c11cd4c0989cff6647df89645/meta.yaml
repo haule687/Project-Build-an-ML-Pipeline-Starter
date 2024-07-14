@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8062e84c11cd4c0989cff6647df89645/artifacts
+end_time: 1720808165112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8062e84c11cd4c0989cff6647df89645
+run_name: enthused-zebra-454
+run_uuid: 8062e84c11cd4c0989cff6647df89645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808154186
+status: 3
+tags: []
+user_id: haucongle

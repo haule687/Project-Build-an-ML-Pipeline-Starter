@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0be0bf6b9fa24feba08e03dd6866f291/artifacts
+end_time: 1720808583876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0be0bf6b9fa24feba08e03dd6866f291
+run_name: nebulous-robin-858
+run_uuid: 0be0bf6b9fa24feba08e03dd6866f291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808573883
+status: 3
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0ab0c01b4168473f891a0ecd01909333/artifacts
+end_time: 1720919743878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ab0c01b4168473f891a0ecd01909333
+run_name: omniscient-wren-762
+run_uuid: 0ab0c01b4168473f891a0ecd01909333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720919703242
+status: 4
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/69f84cc1775b442aa1577b028da72c08/artifacts
+end_time: 1720808260436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69f84cc1775b442aa1577b028da72c08
+run_name: rumbling-sheep-760
+run_uuid: 69f84cc1775b442aa1577b028da72c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808258937
+status: 4
+tags: []
+user_id: haucongle

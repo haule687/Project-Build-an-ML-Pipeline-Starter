@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c3cb253de27420dbb3b8cb54c1384da/artifacts
+end_time: 1720804980685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c3cb253de27420dbb3b8cb54c1384da
+run_name: selective-gnat-274
+run_uuid: 8c3cb253de27420dbb3b8cb54c1384da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720804979762
+status: 4
+tags: []
+user_id: haucongle

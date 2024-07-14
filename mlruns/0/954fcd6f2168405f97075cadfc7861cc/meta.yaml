@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/954fcd6f2168405f97075cadfc7861cc/artifacts
+end_time: 1720808667371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 954fcd6f2168405f97075cadfc7861cc
+run_name: classy-colt-859
+run_uuid: 954fcd6f2168405f97075cadfc7861cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808648107
+status: 3
+tags: []
+user_id: haucongle

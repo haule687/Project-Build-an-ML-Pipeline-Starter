@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6079117c73834376b8ae76a680516f2e/artifacts
+end_time: 1720753137954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6079117c73834376b8ae76a680516f2e
+run_name: tasteful-yak-799
+run_uuid: 6079117c73834376b8ae76a680516f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720753126044
+status: 4
+tags: []
+user_id: haucongle

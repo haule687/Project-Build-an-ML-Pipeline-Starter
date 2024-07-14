@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f20157b416246d78c4e75b169eab38f/artifacts
+end_time: 1720808794789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f20157b416246d78c4e75b169eab38f
+run_name: nosy-bass-807
+run_uuid: 1f20157b416246d78c4e75b169eab38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808791428
+status: 4
+tags: []
+user_id: haucongle

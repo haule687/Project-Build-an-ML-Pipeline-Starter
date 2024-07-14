@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73d043039e514ca6ae719433736cf338/artifacts
+end_time: 1720802588739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73d043039e514ca6ae719433736cf338
+run_name: indecisive-doe-101
+run_uuid: 73d043039e514ca6ae719433736cf338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720802515620
+status: 3
+tags: []
+user_id: haucongle

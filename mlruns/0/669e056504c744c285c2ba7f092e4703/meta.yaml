@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/669e056504c744c285c2ba7f092e4703/artifacts
+end_time: 1720809327971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 669e056504c744c285c2ba7f092e4703
+run_name: skillful-bug-576
+run_uuid: 669e056504c744c285c2ba7f092e4703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720809279779
+status: 4
+tags: []
+user_id: haucongle

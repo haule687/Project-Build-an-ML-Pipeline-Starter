@@ -1,0 +1,187 @@
+2024-07-10 21:06:24,157 INFO    StreamThr :2283 [internal.py:wandb_internal():87] W&B internal server running at pid: 2283, started at: 2024-07-10 21:06:24.156866
+2024-07-10 21:06:24,159 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: status
+2024-07-10 21:06:24,160 INFO    WriterThread:2283 [datastore.py:open_for_write():85] open: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/run-i8v280q2.wandb
+2024-07-10 21:06:24,160 DEBUG   SenderThread:2283 [sender.py:send():334] send: header
+2024-07-10 21:06:24,183 DEBUG   SenderThread:2283 [sender.py:send():334] send: run
+2024-07-10 21:06:24,679 INFO    SenderThread:2283 [dir_watcher.py:__init__():216] watching files in: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files
+2024-07-10 21:06:24,679 INFO    SenderThread:2283 [sender.py:_start_run_threads():1065] run started: i8v280q2 with start time 1720670784.156309
+2024-07-10 21:06:24,679 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: summary_record
+2024-07-10 21:06:24,679 INFO    SenderThread:2283 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-07-10 21:06:24,683 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: check_version
+2024-07-10 21:06:24,683 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: check_version
+2024-07-10 21:06:24,858 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: run_start
+2024-07-10 21:06:24,859 DEBUG   HandlerThread:2283 [system_info.py:__init__():31] System info init
+2024-07-10 21:06:24,859 DEBUG   HandlerThread:2283 [system_info.py:__init__():46] System info init done
+2024-07-10 21:06:24,859 INFO    HandlerThread:2283 [system_monitor.py:start():151] Starting system monitor
+2024-07-10 21:06:24,859 INFO    SystemMonitor:2283 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-07-10 21:06:24,860 INFO    HandlerThread:2283 [system_monitor.py:probe():172] Collecting system info
+2024-07-10 21:06:24,860 INFO    SystemMonitor:2283 [interfaces.py:start():168] Started cpu
+2024-07-10 21:06:24,860 INFO    SystemMonitor:2283 [interfaces.py:start():168] Started disk
+2024-07-10 21:06:24,861 INFO    SystemMonitor:2283 [interfaces.py:start():168] Started memory
+2024-07-10 21:06:24,862 INFO    SystemMonitor:2283 [interfaces.py:start():168] Started network
+2024-07-10 21:06:24,863 DEBUG   HandlerThread:2283 [system_info.py:probe():195] Probing system
+2024-07-10 21:06:24,878 DEBUG   HandlerThread:2283 [system_info.py:_probe_git():180] Probing git
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_info.py:_probe_git():188] Probing git done
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_info.py:probe():241] Probing system done
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_monitor.py:probe():181] {'os': 'Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.31', 'python': '3.9.15', 'heartbeatAt': '2024-07-11T04:06:24.863934', 'startedAt': '2024-07-11T04:06:24.150327', 'docker': None, 'cuda': None, 'args': None, 'state': 'running', 'program': 'src/eda/eda.ipynb', 'root': '/home/haucongle/Project-Build-an-ML-Pipeline-Starter', 'git': {'remote': 'https://github.com/haule687/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'host': 'HauDesktop', 'username': 'haucongle', 'executable': '/home/haucongle/miniconda3/envs/nyc_airbnb_dev/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2918.399, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}, {'current': 2918.399, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 12.667144775390625}, 'memory': {'total': 15.445640563964844}}
+2024-07-10 21:06:24,883 INFO    HandlerThread:2283 [system_monitor.py:probe():182] Finished collecting system info
+2024-07-10 21:06:24,883 INFO    HandlerThread:2283 [system_monitor.py:probe():185] Publishing system info
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_info.py:_save_pip():67] Saving pip packages done
+2024-07-10 21:06:24,883 DEBUG   HandlerThread:2283 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-07-10 21:06:25,679 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/conda-environment.yaml
+2024-07-10 21:06:25,680 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/requirements.txt
+2024-07-10 21:06:25,680 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-summary.json
+2024-07-10 21:06:26,400 DEBUG   HandlerThread:2283 [system_info.py:_save_conda():86] Saving conda packages done
+2024-07-10 21:06:26,400 DEBUG   HandlerThread:2283 [system_info.py:_save_code():89] Saving code
+2024-07-10 21:06:26,400 WARNING HandlerThread:2283 [system_info.py:_save_code():91] unable to save code -- program entry not found
+2024-07-10 21:06:26,400 DEBUG   HandlerThread:2283 [system_info.py:_save_patches():127] Saving git patches
+2024-07-10 21:06:26,479 DEBUG   HandlerThread:2283 [system_info.py:_save_patches():169] Saving git patches done
+2024-07-10 21:06:26,480 INFO    HandlerThread:2283 [system_monitor.py:probe():187] Finished publishing system info
+2024-07-10 21:06:26,481 DEBUG   SenderThread:2283 [sender.py:send():334] send: files
+2024-07-10 21:06:26,481 INFO    SenderThread:2283 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-07-10 21:06:26,481 INFO    SenderThread:2283 [sender.py:_save_file():1319] saving file diff.patch with policy now
+2024-07-10 21:06:26,492 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: stop_status
+2024-07-10 21:06:26,493 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: stop_status
+2024-07-10 21:06:26,680 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/conda-environment.yaml
+2024-07-10 21:06:26,683 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-metadata.json
+2024-07-10 21:06:26,683 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/diff.patch
+2024-07-10 21:06:26,748 DEBUG   SenderThread:2283 [sender.py:send():334] send: telemetry
+2024-07-10 21:06:27,052 INFO    Thread-16 :2283 [upload_job.py:push():143] Uploaded file /tmp/tmpl9flyc5awandb/4pwyxgec-diff.patch
+2024-07-10 21:06:27,108 DEBUG   SenderThread:2283 [sender.py:send():334] send: use_artifact
+2024-07-10 21:06:27,114 INFO    Thread-15 :2283 [upload_job.py:push():143] Uploaded file /tmp/tmpl9flyc5awandb/5bhj1132-wandb-metadata.json
+2024-07-10 21:06:27,680 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/output.log
+2024-07-10 21:06:27,709 DEBUG   SenderThread:2283 [sender.py:send():334] send: telemetry
+2024-07-10 21:06:27,731 DEBUG   SenderThread:2283 [sender.py:send():334] send: config
+2024-07-10 21:06:27,733 DEBUG   SenderThread:2283 [sender.py:send():334] send: exit
+2024-07-10 21:06:27,733 INFO    SenderThread:2283 [sender.py:send_exit():557] handling exit code: 0
+2024-07-10 21:06:27,733 INFO    SenderThread:2283 [sender.py:send_exit():559] handling runtime: 2
+2024-07-10 21:06:27,733 INFO    SenderThread:2283 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-07-10 21:06:27,733 INFO    SenderThread:2283 [sender.py:send_exit():565] send defer
+2024-07-10 21:06:27,733 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,734 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 0
+2024-07-10 21:06:27,734 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,734 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-07-10 21:06:27,734 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 1
+2024-07-10 21:06:27,734 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,734 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 1
+2024-07-10 21:06:27,734 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,734 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-07-10 21:06:27,734 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 2
+2024-07-10 21:06:27,734 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,734 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 2
+2024-07-10 21:06:27,734 INFO    HandlerThread:2283 [system_monitor.py:finish():161] Stopping system monitor
+2024-07-10 21:06:27,734 DEBUG   SystemMonitor:2283 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-07-10 21:06:27,735 INFO    HandlerThread:2283 [interfaces.py:finish():175] Joined cpu
+2024-07-10 21:06:27,735 DEBUG   SystemMonitor:2283 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-07-10 21:06:27,735 DEBUG   SystemMonitor:2283 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-07-10 21:06:27,735 INFO    HandlerThread:2283 [interfaces.py:finish():175] Joined disk
+2024-07-10 21:06:27,736 INFO    HandlerThread:2283 [interfaces.py:finish():175] Joined memory
+2024-07-10 21:06:27,736 INFO    HandlerThread:2283 [interfaces.py:finish():175] Joined network
+2024-07-10 21:06:27,736 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,736 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-07-10 21:06:27,736 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 3
+2024-07-10 21:06:27,736 DEBUG   SenderThread:2283 [sender.py:send():334] send: stats
+2024-07-10 21:06:27,736 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,736 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 3
+2024-07-10 21:06:27,736 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,736 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-07-10 21:06:27,736 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 4
+2024-07-10 21:06:27,736 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,736 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 4
+2024-07-10 21:06:27,737 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 5
+2024-07-10 21:06:27,737 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,737 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 5
+2024-07-10 21:06:27,737 DEBUG   SenderThread:2283 [sender.py:send():334] send: summary
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-07-10 21:06:27,737 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 6
+2024-07-10 21:06:27,737 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,737 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 6
+2024-07-10 21:06:27,737 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,737 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-07-10 21:06:27,739 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: status_report
+2024-07-10 21:06:27,986 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 7
+2024-07-10 21:06:27,986 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:27,986 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 7
+2024-07-10 21:06:27,987 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:27,987 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-07-10 21:06:28,681 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-summary.json
+2024-07-10 21:06:28,681 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/config.yaml
+2024-07-10 21:06:28,681 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/code/_session_history.ipynb
+2024-07-10 21:06:28,682 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_created():275] file/dir created: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/code
+2024-07-10 21:06:28,736 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: poll_exit
+2024-07-10 21:06:29,553 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 8
+2024-07-10 21:06:29,553 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: poll_exit
+2024-07-10 21:06:29,553 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:29,553 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 8
+2024-07-10 21:06:29,554 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:29,554 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-07-10 21:06:29,554 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 9
+2024-07-10 21:06:29,554 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:29,554 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 9
+2024-07-10 21:06:29,554 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:29,554 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-07-10 21:06:29,554 INFO    SenderThread:2283 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-07-10 21:06:29,681 INFO    Thread-12 :2283 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/output.log
+2024-07-10 21:06:29,681 INFO    SenderThread:2283 [dir_watcher.py:finish():392] scan: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/config.yaml config.yaml
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-metadata.json wandb-metadata.json
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/conda-environment.yaml conda-environment.yaml
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/requirements.txt requirements.txt
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-summary.json wandb-summary.json
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/diff.patch diff.patch
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/output.log output.log
+2024-07-10 21:06:29,682 INFO    SenderThread:2283 [dir_watcher.py:finish():406] scan save: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/code/_session_history.ipynb code/_session_history.ipynb
+2024-07-10 21:06:29,685 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 10
+2024-07-10 21:06:29,685 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:29,685 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 10
+2024-07-10 21:06:29,687 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:29,687 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-07-10 21:06:29,687 INFO    SenderThread:2283 [file_pusher.py:finish():160] shutting down file pusher
+2024-07-10 21:06:29,735 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: poll_exit
+2024-07-10 21:06:29,736 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: poll_exit
+2024-07-10 21:06:30,148 INFO    Thread-21 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/output.log
+2024-07-10 21:06:30,197 INFO    Thread-19 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/requirements.txt
+2024-07-10 21:06:30,197 INFO    Thread-17 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/config.yaml
+2024-07-10 21:06:30,216 INFO    Thread-22 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/code/_session_history.ipynb
+2024-07-10 21:06:30,227 INFO    Thread-18 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/conda-environment.yaml
+2024-07-10 21:06:30,248 INFO    Thread-20 :2283 [upload_job.py:push():143] Uploaded file /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/files/wandb-summary.json
+2024-07-10 21:06:30,449 INFO    Thread-11 :2283 [sender.py:transition_state():585] send defer: 11
+2024-07-10 21:06:30,449 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:30,449 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 11
+2024-07-10 21:06:30,450 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:30,450 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-07-10 21:06:30,450 INFO    SenderThread:2283 [file_pusher.py:join():165] waiting for file pusher
+2024-07-10 21:06:30,450 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 12
+2024-07-10 21:06:30,450 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:30,450 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 12
+2024-07-10 21:06:30,450 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:30,450 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-07-10 21:06:30,548 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 13
+2024-07-10 21:06:30,548 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:30,548 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 13
+2024-07-10 21:06:30,548 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:30,548 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-07-10 21:06:30,548 INFO    SenderThread:2283 [sender.py:transition_state():585] send defer: 14
+2024-07-10 21:06:30,549 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: defer
+2024-07-10 21:06:30,549 INFO    HandlerThread:2283 [handler.py:handle_request_defer():170] handle defer: 14
+2024-07-10 21:06:30,549 DEBUG   SenderThread:2283 [sender.py:send():334] send: final
+2024-07-10 21:06:30,549 DEBUG   SenderThread:2283 [sender.py:send():334] send: footer
+2024-07-10 21:06:30,550 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: defer
+2024-07-10 21:06:30,550 INFO    SenderThread:2283 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-07-10 21:06:30,550 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: poll_exit
+2024-07-10 21:06:30,551 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: poll_exit
+2024-07-10 21:06:30,551 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: server_info
+2024-07-10 21:06:30,551 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: get_summary
+2024-07-10 21:06:30,551 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: sampled_history
+2024-07-10 21:06:30,552 DEBUG   SenderThread:2283 [sender.py:send_request():361] send_request: server_info
+2024-07-10 21:06:30,896 DEBUG   HandlerThread:2283 [handler.py:handle_request():144] handle_request: shutdown
+2024-07-10 21:06:30,896 INFO    HandlerThread:2283 [handler.py:finish():841] shutting down handler
+2024-07-10 21:06:31,552 INFO    WriterThread:2283 [datastore.py:close():299] close: /home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240710_210624-i8v280q2/run-i8v280q2.wandb
+2024-07-10 21:06:31,895 INFO    SenderThread:2283 [sender.py:finish():1491] shutting down sender
+2024-07-10 21:06:31,896 INFO    SenderThread:2283 [file_pusher.py:finish():160] shutting down file pusher
+2024-07-10 21:06:31,896 INFO    SenderThread:2283 [file_pusher.py:join():165] waiting for file pusher

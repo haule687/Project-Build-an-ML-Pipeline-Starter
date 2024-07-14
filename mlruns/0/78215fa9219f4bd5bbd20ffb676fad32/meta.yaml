@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/78215fa9219f4bd5bbd20ffb676fad32/artifacts
+end_time: 1720810595273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78215fa9219f4bd5bbd20ffb676fad32
+run_name: marvelous-sheep-749
+run_uuid: 78215fa9219f4bd5bbd20ffb676fad32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720810480984
+status: 3
+tags: []
+user_id: haucongle

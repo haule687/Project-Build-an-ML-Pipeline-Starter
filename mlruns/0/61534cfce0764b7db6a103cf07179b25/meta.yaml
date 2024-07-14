@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/61534cfce0764b7db6a103cf07179b25/artifacts
+end_time: 1720807973538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61534cfce0764b7db6a103cf07179b25
+run_name: bouncy-slug-530
+run_uuid: 61534cfce0764b7db6a103cf07179b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720807915692
+status: 3
+tags: []
+user_id: haucongle

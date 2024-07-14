@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/91e10e9ad1bb4e95934bc5b5a0f4935a/artifacts
+end_time: 1720752499257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e10e9ad1bb4e95934bc5b5a0f4935a
+run_name: rebellious-owl-187
+run_uuid: 91e10e9ad1bb4e95934bc5b5a0f4935a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720752497165
+status: 4
+tags: []
+user_id: haucongle

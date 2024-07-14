@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30d36e738b8f4c4b8086d7d511cf5cba/artifacts
+end_time: 1720810410003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30d36e738b8f4c4b8086d7d511cf5cba
+run_name: bustling-vole-162
+run_uuid: 30d36e738b8f4c4b8086d7d511cf5cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720810309083
+status: 3
+tags: []
+user_id: haucongle

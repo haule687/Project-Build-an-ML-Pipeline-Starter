@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60c7668de6094feaa2c4f6ca7cd7f12c/artifacts
+end_time: 1720805282563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c7668de6094feaa2c4f6ca7cd7f12c
+run_name: abrasive-shrike-239
+run_uuid: 60c7668de6094feaa2c4f6ca7cd7f12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720805281659
+status: 4
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9595c4bf07a649ce8a99088b8846e52f/artifacts
+end_time: 1720807659646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9595c4bf07a649ce8a99088b8846e52f
+run_name: dapper-penguin-70
+run_uuid: 9595c4bf07a649ce8a99088b8846e52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720807641131
+status: 3
+tags: []
+user_id: haucongle

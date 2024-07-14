@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aca98ef085844bc2a93c8e3b172d7e6b/artifacts
+end_time: 1720802588619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aca98ef085844bc2a93c8e3b172d7e6b
+run_name: sincere-cub-158
+run_uuid: aca98ef085844bc2a93c8e3b172d7e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720802519126
+status: 3
+tags: []
+user_id: haucongle

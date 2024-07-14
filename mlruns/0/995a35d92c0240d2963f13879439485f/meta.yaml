@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/995a35d92c0240d2963f13879439485f/artifacts
+end_time: 1720810173185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 995a35d92c0240d2963f13879439485f
+run_name: unleashed-steed-773
+run_uuid: 995a35d92c0240d2963f13879439485f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720810125975
+status: 4
+tags: []
+user_id: haucongle

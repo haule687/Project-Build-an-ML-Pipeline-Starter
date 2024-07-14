@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b764d11ffbbf4b63970d11820db7054b/artifacts
+end_time: 1720751591917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b764d11ffbbf4b63970d11820db7054b
+run_name: gregarious-mouse-368
+run_uuid: b764d11ffbbf4b63970d11820db7054b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720751581044
+status: 3
+tags: []
+user_id: haucongle

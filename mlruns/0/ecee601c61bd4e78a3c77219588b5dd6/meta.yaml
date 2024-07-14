@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ecee601c61bd4e78a3c77219588b5dd6/artifacts
+end_time: 1720920275769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecee601c61bd4e78a3c77219588b5dd6
+run_name: classy-cod-603
+run_uuid: ecee601c61bd4e78a3c77219588b5dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720920235565
+status: 4
+tags: []
+user_id: haucongle

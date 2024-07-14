@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e426ad5c9148470397d38340a6795d39/artifacts
+end_time: 1720809849921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e426ad5c9148470397d38340a6795d39
+run_name: casual-mule-286
+run_uuid: e426ad5c9148470397d38340a6795d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720809801546
+status: 4
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/68c4119cb34a4622b9f11556b6a0517d/artifacts
+end_time: 1720808794615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68c4119cb34a4622b9f11556b6a0517d
+run_name: fortunate-eel-438
+run_uuid: 68c4119cb34a4622b9f11556b6a0517d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808793606
+status: 4
+tags: []
+user_id: haucongle

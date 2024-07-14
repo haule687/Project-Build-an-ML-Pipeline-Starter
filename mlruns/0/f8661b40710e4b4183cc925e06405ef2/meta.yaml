@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f8661b40710e4b4183cc925e06405ef2/artifacts
+end_time: 1720808584005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8661b40710e4b4183cc925e06405ef2
+run_name: unique-rook-151
+run_uuid: f8661b40710e4b4183cc925e06405ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808571943
+status: 3
+tags: []
+user_id: haucongle

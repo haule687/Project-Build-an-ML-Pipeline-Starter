@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c14ae6ef50af4589ad57efe2dfaa65d9/artifacts
+end_time: 1720804980838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c14ae6ef50af4589ad57efe2dfaa65d9
+run_name: upbeat-shrimp-93
+run_uuid: c14ae6ef50af4589ad57efe2dfaa65d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720804978289
+status: 4
+tags: []
+user_id: haucongle

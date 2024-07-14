@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/398ec50d26c643d4850c01739dca1050/artifacts
+end_time: 1720806086162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 398ec50d26c643d4850c01739dca1050
+run_name: powerful-wren-478
+run_uuid: 398ec50d26c643d4850c01739dca1050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720806084286
+status: 4
+tags: []
+user_id: haucongle

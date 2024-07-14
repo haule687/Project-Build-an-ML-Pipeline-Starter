@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4fc0d25b49a8402089a602545dea4acc/artifacts
+end_time: 1720804749410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fc0d25b49a8402089a602545dea4acc
+run_name: mysterious-horse-559
+run_uuid: 4fc0d25b49a8402089a602545dea4acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720804686257
+status: 4
+tags: []
+user_id: haucongle

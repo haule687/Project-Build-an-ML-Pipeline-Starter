@@ -1,0 +1,15 @@
+2024-07-12 11:30:08,177 Minimum price: 10, Maximum price: 350
+2024-07-12 11:30:08,184 Preparing sklearn pipeline
+2024-07-12 11:30:08,184 Fitting
+2024-07-12 11:30:47,518 Scoring
+2024-07-12 11:30:47,609 Score: 0.5339406885517419
+2024-07-12 11:30:47,609 MAE: 33.565065789473685
+2024-07-12 11:30:47,610 Exporting model
+/home/haucongle/miniconda3/envs/mlflow-c8fd2776665c9ad080696f5709146635abdecee4/lib/python3.9/site-packages/mlflow/models/signature.py:130: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input)
+Traceback (most recent call last):
+  File "/home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 296, in <module>
+    go(args)
+  File "/home/haucongle/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 100, in go
+    mlflow.sklearn.save_model(
+TypeError: save_model() missing 2 required positional arguments: 'sk_model' and 'path'

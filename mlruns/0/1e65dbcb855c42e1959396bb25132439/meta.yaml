@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1e65dbcb855c42e1959396bb25132439/artifacts
+end_time: 1720808016095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e65dbcb855c42e1959396bb25132439
+run_name: glamorous-donkey-899
+run_uuid: 1e65dbcb855c42e1959396bb25132439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808014648
+status: 4
+tags: []
+user_id: haucongle

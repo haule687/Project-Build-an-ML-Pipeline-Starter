@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a383d4df04f444fcb9560c3cca5de6c7/artifacts
+end_time: 1720807448805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a383d4df04f444fcb9560c3cca5de6c7
+run_name: stylish-crane-241
+run_uuid: a383d4df04f444fcb9560c3cca5de6c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720807447509
+status: 4
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8593518a33844daf885430a23f982526/artifacts
+end_time: 1720806958725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8593518a33844daf885430a23f982526
+run_name: fortunate-mare-440
+run_uuid: 8593518a33844daf885430a23f982526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720806921614
+status: 4
+tags: []
+user_id: haucongle

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/256d8b70dcbe45e3a9b469ace4f0b166/artifacts
+end_time: 1720917395661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 256d8b70dcbe45e3a9b469ace4f0b166
+run_name: masked-lynx-611
+run_uuid: 256d8b70dcbe45e3a9b469ace4f0b166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720917340377
+status: 3
+tags: []
+user_id: haucongle

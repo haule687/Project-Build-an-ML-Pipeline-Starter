@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/28279d8d862d43498b454b187c402973/artifacts
+end_time: 1720810480906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28279d8d862d43498b454b187c402973
+run_name: exultant-rook-863
+run_uuid: 28279d8d862d43498b454b187c402973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720810410081
+status: 3
+tags: []
+user_id: haucongle

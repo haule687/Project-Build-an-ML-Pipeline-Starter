@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4b95481ea440475d84807e1934a0aceb/artifacts
+end_time: 1720751591800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b95481ea440475d84807e1934a0aceb
+run_name: rumbling-duck-914
+run_uuid: 4b95481ea440475d84807e1934a0aceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720751582987
+status: 3
+tags: []
+user_id: haucongle

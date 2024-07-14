@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6f68a1f41294aa68b88baf6f32be0d4/artifacts
+end_time: 1720807973414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6f68a1f41294aa68b88baf6f32be0d4
+run_name: merciful-fawn-558
+run_uuid: f6f68a1f41294aa68b88baf6f32be0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720807957380
+status: 3
+tags: []
+user_id: haucongle

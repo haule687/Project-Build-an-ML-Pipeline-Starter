@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/052bfc6113294d1da6c9c1a668612a62/artifacts
+end_time: 1720808724956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 052bfc6113294d1da6c9c1a668612a62
+run_name: nebulous-dolphin-78
+run_uuid: 052bfc6113294d1da6c9c1a668612a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808723971
+status: 4
+tags: []
+user_id: haucongle

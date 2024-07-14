@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4f50dacd54214d48afd090f863182926/artifacts
+end_time: 1720751192626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f50dacd54214d48afd090f863182926
+run_name: monumental-slug-688
+run_uuid: 4f50dacd54214d48afd090f863182926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720751157067
+status: 3
+tags: []
+user_id: haucongle

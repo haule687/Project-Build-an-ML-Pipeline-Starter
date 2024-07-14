@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f36b7410f014f4584c0e02f9d5dd4d5/artifacts
+end_time: 1720809849749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f36b7410f014f4584c0e02f9d5dd4d5
+run_name: melodic-doe-283
+run_uuid: 5f36b7410f014f4584c0e02f9d5dd4d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720809803071
+status: 4
+tags: []
+user_id: haucongle

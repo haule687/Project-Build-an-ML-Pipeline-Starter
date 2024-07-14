@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3639ab85eafc4c408cd33d72ef530d50/artifacts
+end_time: 1720751551377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3639ab85eafc4c408cd33d72ef530d50
+run_name: righteous-stag-263
+run_uuid: 3639ab85eafc4c408cd33d72ef530d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720751537932
+status: 3
+tags: []
+user_id: haucongle

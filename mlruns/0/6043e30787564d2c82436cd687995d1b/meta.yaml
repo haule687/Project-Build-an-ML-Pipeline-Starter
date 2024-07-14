@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6043e30787564d2c82436cd687995d1b/artifacts
+end_time: 1720808189180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6043e30787564d2c82436cd687995d1b
+run_name: entertaining-hog-595
+run_uuid: 6043e30787564d2c82436cd687995d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720808178851
+status: 3
+tags: []
+user_id: haucongle

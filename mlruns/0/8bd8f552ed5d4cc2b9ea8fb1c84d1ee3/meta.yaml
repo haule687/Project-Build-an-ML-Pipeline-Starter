@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8bd8f552ed5d4cc2b9ea8fb1c84d1ee3/artifacts
+end_time: 1720805542887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd8f552ed5d4cc2b9ea8fb1c84d1ee3
+run_name: marvelous-shrike-401
+run_uuid: 8bd8f552ed5d4cc2b9ea8fb1c84d1ee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720805541005
+status: 4
+tags: []
+user_id: haucongle

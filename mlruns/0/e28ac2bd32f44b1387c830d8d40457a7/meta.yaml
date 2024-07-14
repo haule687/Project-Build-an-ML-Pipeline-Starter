@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e28ac2bd32f44b1387c830d8d40457a7/artifacts
+end_time: 1720753213867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e28ac2bd32f44b1387c830d8d40457a7
+run_name: colorful-lamb-346
+run_uuid: e28ac2bd32f44b1387c830d8d40457a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720753200995
+status: 3
+tags: []
+user_id: haucongle
