@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/02b45e98a764461ba869d8f2a9451534/artifacts
+end_time: 1720928047980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02b45e98a764461ba869d8f2a9451534
+run_name: whimsical-boar-315
+run_uuid: 02b45e98a764461ba869d8f2a9451534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720928038142
+status: 3
+tags: []
+user_id: haucongle

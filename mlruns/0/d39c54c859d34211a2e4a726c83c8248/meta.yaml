@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d39c54c859d34211a2e4a726c83c8248/artifacts
+end_time: 1720928048092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d39c54c859d34211a2e4a726c83c8248
+run_name: kindly-stoat-498
+run_uuid: d39c54c859d34211a2e4a726c83c8248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720928035371
+status: 3
+tags: []
+user_id: haucongle
