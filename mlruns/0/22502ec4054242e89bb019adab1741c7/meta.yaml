@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/22502ec4054242e89bb019adab1741c7/artifacts
+end_time: 1720923012732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22502ec4054242e89bb019adab1741c7
+run_name: honorable-mouse-411
+run_uuid: 22502ec4054242e89bb019adab1741c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720922969223
+status: 4
+tags: []
+user_id: haucongle

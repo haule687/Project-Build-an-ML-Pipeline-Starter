@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haucongle/Project-Build-an-ML-Pipeline-Starter/mlruns/0/79c351e1499349f48535d3c7742f9f48/artifacts
+end_time: 1720923289627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79c351e1499349f48535d3c7742f9f48
+run_name: whimsical-calf-38
+run_uuid: 79c351e1499349f48535d3c7742f9f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720923230973
+status: 3
+tags: []
+user_id: haucongle
